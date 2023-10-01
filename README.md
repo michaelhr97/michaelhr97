@@ -63,3 +63,12 @@ Also, **I've been actively engaged in backend development** ⚒️. Creating new
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>
 </div>
+
+<br/>
+
+## 📊 **Statistics**
+
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michaelhr97&show_icons=true&theme=blueberry"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelhr97&layout=pie&langs_count=8&card_width=320&theme=blueberry" />
+</div>
