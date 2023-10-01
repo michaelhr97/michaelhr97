@@ -12,7 +12,7 @@ I bring over **+2 years of experience** 💼 in the technology sector, where I'v
 
 Also, **I've been actively engaged in backend development** ⚒️. Creating new endpoints has been a key aspect of my backend work. I've crafted APIs that enable seamless communication between frontend and backend components, providing the necessary functionality for web applications to thrive. These endpoints have been instrumental in delivering enhanced user experiences and expanding the capabilities of the projects I've been a part of.
 
-<br><br>
+<br>
 
 <h3 align="center"> ⬇️ You can find me here ⬇️</h3>
 <p align="center">
@@ -22,7 +22,7 @@ Also, **I've been actively engaged in backend development** ⚒️. Creating new
                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<br/><br/>
+<br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50" style="vertical-align: middle;"><strong> Skills</strong>
 
