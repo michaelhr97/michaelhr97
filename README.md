@@ -69,6 +69,6 @@ Also, **I've been actively engaged in backend development** ⚒️. Creating new
 ## 📊 **Statistics**
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=michaelhr97&theme=blueberry" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelhr97&theme=blueberry&layout=compact" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=michaelhr97&theme=blueberry" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelhr97&theme=blueberry&layout=compact" />
 </div>
